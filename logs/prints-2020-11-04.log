@@ -1,0 +1,8 @@
+11:25:54.846 [TestNG] INFO  Academy.HomePage - Restricted User
+11:25:57.738 [TestNG] INFO  Academy.HomePage - Non restricted user
+11:29:07.764 [TestNG] INFO  resources.base - Navigated to Home page
+11:30:36.132 [TestNG] INFO  resources.base - Navigated to Home page
+11:30:47.420 [TestNG] INFO  Academy.HomePage - Navigation Bar is displayed
+11:30:49.969 [TestNG] INFO  Academy.HomePage - Restricted User
+11:30:54.998 [TestNG] INFO  Academy.HomePage - Non restricted user
+10:17:50.402 [main] INFO  Academy.HomePage - Restricted User
