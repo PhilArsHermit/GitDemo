@@ -15,6 +15,8 @@ public WebDriver driver;
 	
 	
 	
+	
+	
 	public ForgotPassword(WebDriver driver) {
 		// TODO Auto-generated constructor stub
 		
@@ -26,6 +28,10 @@ public WebDriver driver;
 	public WebElement getEmail()
 	{
 		return driver.findElement(email);
+		System.out.println("#1");
+		System.out.println("#2");
+		System.out.println("#3");
+		
 	}
 	
 	public WebElement sendMeInstructions()
