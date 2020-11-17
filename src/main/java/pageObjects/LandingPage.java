@@ -31,6 +31,8 @@ public class LandingPage {
 	public WebElement getNavigationBar()
 	{
 		System.out.println("Trying to identify navigation bar");
+		System.out.println("Still Trying to identify navigation bar");
+		System.out.println("Again Trying to identify navigation bar");
 		return driver.findElement(NavBar);
 	}
 	
